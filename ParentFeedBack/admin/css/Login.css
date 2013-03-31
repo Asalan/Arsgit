@@ -1,0 +1,59 @@
+/* 
+    Document   : Login
+    Created on : Mar 22, 2013, 7:41:21 AM
+    Author     : Administrator
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+#Container { 
+    margin: 0 auto;
+    width: 1000px;
+/*    top: 20px;*/
+
+    background-position: center center;
+}
+#Header1{
+    height: 18px;
+    width: 1000px;  
+    background-color: #9999ff;
+}
+#Header2{
+    height: 95px;
+    width: 1000px;
+    background-color: #f0eded;
+}
+#H2Inputsec{
+    float: right;
+    width: 500px;
+    height: 95px;
+    
+    
+}
+#H2Text{
+    float:left;
+    width: 500px;
+    height: 95px;
+}
+#inptable{
+    border: 0px;
+    vertical-align: middle;
+    text-align: center;
+}
+#body {
+/*    margin: auto;*/
+    width: 1000px;
+    height: 400px; 
+    background-color: #9999ff;
+}
+#footer{
+    width: 1000px;
+    height: 20px; 
+    background-color: #9999ff;
+}
+
